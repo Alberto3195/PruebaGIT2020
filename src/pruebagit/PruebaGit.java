@@ -15,7 +15,8 @@ public class PruebaGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Prueba GIT");
+        //https://github.com/Alberto3195/PruebaGIT2020.git
+        //He añadido un metodo que quita espacios
     }
     
 }
